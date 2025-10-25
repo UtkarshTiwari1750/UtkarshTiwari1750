@@ -1,30 +1,87 @@
-<h1 align="center">Hi 👋, I'm Utkarsh</h1>
-<h3 align="center">A passionate Full Stack Web Developer and C++ Coder.</h3>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm <a href="https://portfolio-alpha-blond-12.vercel.app/" target="_blank">Utkarsh Tiwari</a></h1>
+<h3 align="center">🚀 Full Stack Developer | 🧠 C++ Coder | ☁️ DevOps & ML Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshtiwari1750&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshtiwari1750" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarshtiwari1750" alt="utkarshtiwari1750" /></a> </p>
-
-- 🌱 I’m currently learning **ML and Devops**
-
-- 💬 Ask me about **React, NextJS, ExpressJS, MongoDB**
-
-- 📫 How to reach me **utkarshtiwari1750@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/utkarsh1750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utkarsh1750" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/utkarsh-tiwari-1a4b91256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh-tiwari-1a4b91256" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/utkarshtiwari1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="utkarshtiwari1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/utkarsh1750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="utkarsh1750" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/utkarshtiwari1750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarshtiwari1750" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+scalable+apps+%F0%9F%9A%80;Loving+React%2C+Next.js%2C+and+Cloud+DevOps+☁️;Turning+ideas+into+production-ready+solutions+💡" alt="Typing animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/UtkarshTiwari1750"><img src="https://komarev.com/ghpvc/?username=UtkarshTiwari1750&style=for-the-badge&color=0e75b6" alt="profile views" /></a>
+  <a href="https://wakatime.com/@utkarsh1750"><img src="https://wakatime.com/badge/user/@utkarsh1750.svg?style=for-the-badge" alt="Wakatime" /></a>
+  <a href="https://github.com/UtkarshTiwari1750?tab=followers"><img src="https://img.shields.io/github/followers/UtkarshTiwari1750?style=for-the-badge&logo=github" alt="followers" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshtiwari1750&show_icons=true&locale=en&layout=compact" alt="utkarshtiwari1750" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshtiwari1750&show_icons=true&locale=en" alt="utkarshtiwari1750" /></p>
+### 🌱 About Me
+- 🔭 Currently working as **Full Stack Developer Intern @ Neusort**
+- 🧩 Exploring **DevOps, ML, and scalable distributed systems**
+- 🧠 Strong in **C++, React, Next.js, Express.js, RabbitMQ, and Docker**
+- 💬 Ask me about **System Design, WebRTC, or Real-time Apps**
+- 📫 Reach me at **utkarshtiwari1750@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshtiwari1750&" alt="utkarshtiwari1750" /></p>
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/utkarsh-tiwari-1a4b91256"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"/></a>
+  <a href="https://twitter.com/utkarsh1750"><img src="https://skillicons.dev/icons?i=twitter" width="45px"/></a>
+  <a href="https://leetcode.com/u/utkarshtiwari1750"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45px"/></a>
+  <a href="https://www.codechef.com/users/utkarsh1750"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" width="45px"/></a>
+  <a href="https://codeforces.com/profile/utkarsh1750"><img src="https://codeforces.com//codeforces.org/s/92858/android-icon-192x192.png" width="45px"/></a>
+  <a href="https://utkarsh-tiwari.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="45px"/></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript,java,react,nextjs,redux,express,nodejs,mongodb,postgresql,mysql,docker,linux,tailwind,git,nginx,prisma,postman" />
+</p>
+
+---
+
+### 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UtkarshTiwari1750&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshTiwari1750&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshTiwari1750&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+### 🧩 Featured Projects
+| 💡 Project | 🧰 Tech Stack | 🔗 Link |
+|-------------|---------------|----------|
+| **DailyBasket (Grocery App)** | React Native, Expo, MySQL | [🔗 GitHub](https://github.com/UtkarshTiwari1750/grocery-app) |
+| **Septron (Video Streaming)** | MERN, Redis, Nginx | [🔗 GitHub](https://github.com/UtkarshTiwari1750/Septron) |
+| **CLI AI Assistant** | Python, OpenAI API | 🚀 Private |
+
+---
+
+### 🧮 Fun Stats & Activity
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=UtkarshTiwari1750&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=UtkarshTiwari1750&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UtkarshTiwari1750&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+> I love building **tools that automate developer workflows** and **optimize performance for real-time systems.**
+
+---
+
+✨ _“Code, Learn, Repeat — because great software is born from iteration.”_ ✨
