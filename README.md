@@ -3,13 +3,13 @@
 <h3 align="center">🚀 Full Stack Developer | 🧠 C++ Coder | ☁️ DevOps & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+scalable+apps+%F0%9F%9A%80;Loving+React%2C+Next.js%2C+and+Cloud+DevOps+☁️;Turning+ideas+into+production-ready+solutions+💡" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+scalable+apps+🚀;Loving+React,+Next.js,+and+Cloud+DevOps+☁️;Turning+ideas+into+production-ready+solutions+💡" alt="Typing animation" />
 </p>
 
 <!-- Badges -->
 <p align="center">
   <a href="https://github.com/UtkarshTiwari1750"><img src="https://komarev.com/ghpvc/?username=UtkarshTiwari1750&style=for-the-badge&color=0e75b6" alt="profile views" /></a>
-  <a href="https://wakatime.com/@utkarsh1750"><img src="https://wakatime.com/badge/user/@utkarsh1750.svg?style=for-the-badge" alt="Wakatime" /></a>
+  <!-- <a href="https://wakatime.com/@utkarsh1750"><img src="https://wakatime.com/badge/user/utkarsh1750.svg?style=for-the-badge" alt="Wakatime" /></a> -->
   <a href="https://github.com/UtkarshTiwari1750?tab=followers"><img src="https://img.shields.io/github/followers/UtkarshTiwari1750?style=for-the-badge&logo=github" alt="followers" /></a>
 </p>
 
