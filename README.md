@@ -9,7 +9,7 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://github.com/UtkarshTiwari1750"><img src="https://komarev.com/ghpvc/?username=UtkarshTiwari1750&style=for-the-badge&color=0e75b6" alt="profile views" /></a>
-  <!-- <a href="https://wakatime.com/@utkarsh1750"><img src="https://wakatime.com/badge/user/utkarsh1750.svg?style=for-the-badge" alt="Wakatime" /></a> -->
+  <a href="https://wakatime.com/@d03218d2-796d-484a-8726-d425ed574464"><img src="https://wakatime.com/badge/user/d03218d2-796d-484a-8726-d425ed574464.svg" alt="Total time coded since Oct 25 2025" /></a>  
   <a href="https://github.com/UtkarshTiwari1750?tab=followers"><img src="https://img.shields.io/github/followers/UtkarshTiwari1750?style=for-the-badge&logo=github" alt="followers" /></a>
 </p>
 
