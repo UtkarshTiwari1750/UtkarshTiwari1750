@@ -24,18 +24,6 @@
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/utkarsh-tiwari-1a4b91256"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"/></a>
-  <a href="https://twitter.com/utkarsh1750"><img src="https://skillicons.dev/icons?i=twitter" width="45px"/></a>
-  <a href="https://leetcode.com/u/utkarshtiwari1750"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45px"/></a>
-  <a href="https://www.codechef.com/users/utkarsh1750"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" width="45px"/></a>
-  <a href="https://codeforces.com/profile/utkarsh1750"><img src="https://codeforces.com//codeforces.org/s/92858/android-icon-192x192.png" width="45px"/></a>
-  <a href="https://utkarsh-tiwari.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="45px"/></a>
-</p>
-
----
-
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript,java,react,nextjs,redux,express,nodejs,mongodb,postgresql,mysql,docker,linux,tailwind,git,nginx,prisma,postman" />
